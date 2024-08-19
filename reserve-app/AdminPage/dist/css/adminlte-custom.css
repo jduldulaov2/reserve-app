@@ -1,0 +1,119 @@
+.main-sidebar{
+	background-color: #1c1f2e;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+    color: white;
+    /* background: linear-gradient(90deg, rgba(38, 75, 135, 1) 0%, rgba(61, 105, 177, 1) 50%, rgba(23, 162, 184, 1) 100%) !important; */
+    background: rgb(167 1 1);
+}
+
+.nav-header{
+	background-color: #6c757d26!important;
+}
+
+.card-header{
+	    color: white;
+    background: rgb(9, 112, 129);
+    background: linear-gradient(90deg, rgba(9, 112, 129, 1) 0%, rgba(14, 152, 175, 1) 50%, rgba(241, 239, 83, 1) 100%);
+}
+
+.main-header{
+	background-color: #1c1f2e;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fac9;
+}
+
+.card-header-2 {
+    color: white!important;
+    background: #6c757d;
+}
+
+.card-body-custom{
+    background: linear-gradient(0deg, rgb(232 206 121 / 0%) 0%, rgb(236 217 151 / 21%) 100%);
+}
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #ffb03b;
+    border-color: #ffb03b;
+    box-shadow: none !important;
+}
+
+.card-body-search{
+    background-color: #dee2e6!important;
+}
+
+.custom-bg-1{
+    background-color: #f39c1214;
+}
+
+.custom-bg-2{
+    background-color: #6c757d4a;
+}
+
+.todo-list>li .text {
+    display: inline-block;
+    font-weight: normal!important;
+    margin-left: 5px;
+}
+
+.small-box>.small-box-footer {
+    padding: 15px 0!important;
+}
+
+.card-body-search-custom{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.brand-link {
+    padding: 0.1225rem .5rem!important;
+}
+
+.custom-color-1{
+    color: red;
+}
+
+.custom-color-2{
+    color: green;
+}
+
+.custom-bg-3{
+    background-color: #e74c3c0a;
+}
+
+.summary-table-item{
+    background-color: #6c757d0d;
+}
+
+.summary-table-item2{
+    background-color: #fd7e1412;
+}
+
+.summary-table-item3{
+    text-align: right;
+}
+
+.summary-table-item4{
+    background-color: #dee2e6;
+    padding: 10px;
+}
+
+.btn-primary-2 {
+    color: #fff !important;
+    background-color: rgb(167 1 1 / 80%)!important;
+    border-color: rgb(167 1 1 / 80%)!important;
+    box-shadow: none !important;
+}
+
+.card-header-3 {
+    color: white !important;
+    background: rgb(167 1 1 / 80%) !important;
+}
+
+.card-body-2{
+    background-color: #f8f9fa;
+}
